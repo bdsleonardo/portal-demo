@@ -1,3 +1,3 @@
-function alert(){
+function myAlert(){
     alert('Bem vindo JavaScript!!!');
 }
